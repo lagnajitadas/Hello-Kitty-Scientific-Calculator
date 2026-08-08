@@ -35,3 +35,11 @@ A Hello Kitty themed scientific calculator built using **Java Swing**.
 ## 👩‍💻 Author
 
 Lagnajita Das
+
+## 🖼️ Screenshots
+
+### 🧮 Main Calculator
+![Hello Kitty Calculator](Screenshot%202026-08-08%20113041.png)
+
+### 🔬 Scientific Calculator
+![Scientific Calculator](Screenshot%202026-08-08%20113125.png)
